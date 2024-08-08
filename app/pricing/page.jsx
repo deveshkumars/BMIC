@@ -34,10 +34,10 @@ const pricing = () => {
         </h2>
         <div className='mx-auto max-w-2xl sm:text-center'>
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
-            Memories worth love cherishing
+            Buyers are 65% more likely to buy with drone photos. Get yours today.
           </h2>
           <p className='mt-6 text-lg leading-8'>
-            Create the memories & celebrate the magic with Solene - a beautifully designed idk
+            All footage is available in 4K. Price match is available.
           </p>
 
         </div>
@@ -45,9 +45,9 @@ const pricing = () => {
         {/* Pricing */}
         <div className='mx-auto mt-16 max-w-2xl ring-1 ring-gray-200 rounded-3xl sm:mt-20 lg:mx-0 lg:flex lg:max-w-none'>
           <div className="p-8 sm:p-10 lg:flex-auto">
-            <h3 className='text-2xl font-bold tracking-tight'>Lifetime Membership</h3>
+            <h3 className='text-2xl font-bold tracking-tight'>Starter Package</h3>
             <p className='mt-6 text-base leading-7'>
-              Create solenne memoroeis
+              Get drone photos and cinematic video to enhance your listing.
             </p>
 
           <div className='mt-10 flex items-center gap-x-4'>

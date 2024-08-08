@@ -269,7 +269,7 @@ const portfolio = () => {
         <p className='subtitle mb-8 text-center xl:mb-16'>455 Massies Ln</p>
 
         <center className='mb-12 xl:mb-24'>
-        <iframe width="840" height="473" src="https://www.youtube.com/embed/cjmBdbaGdbA?si=eq12Epi8px8jHzd6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen='true'></iframe>
+        <iframe width="840" height="473" src="https://www.youtube.com/embed/pIiWFO9KcTw?si=uxvjpuzyGEwFLXPo&vq=hd1080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <p>  </p>
         </center>
 
