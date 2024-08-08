@@ -16,6 +16,15 @@ const projectData = [
       codepen: '/',
   },
   {
+    image: '/starter/vt.jpg',
+    category: 'Virtual Twilight',
+    name: 'February 11, 2024',
+    description:
+    "Lorem Ipsum",
+    link: 'https://drive.google.com/drive/folders/1dmUMWQXWjuuShxroTuxRG8qTStX8oKFn?usp=share_link',
+    codepen: '/',
+  },
+  {
     image: '/starter/f8.JPG',
     category: 'Drone Pictures',
     name: 'February 11, 2024',
@@ -231,15 +240,7 @@ const projectData = [
     link: 'https://drive.google.com/drive/folders/1dmUMWQXWjuuShxroTuxRG8qTStX8oKFn?usp=share_link',
     codepen: '/',
   },
-  {
-    image: '/starter/vt.JPG',
-    category: 'Virtual Twilight',
-    name: 'February 11, 2024',
-    description:
-    "Lorem Ipsum",
-    link: 'https://drive.google.com/drive/folders/1dmUMWQXWjuuShxroTuxRG8qTStX8oKFn?usp=share_link',
-    codepen: '/',
-  },
+
   
 ];
 
@@ -262,9 +263,10 @@ const portfolio = () => {
       <div className='container mx-auto'>
 
 
-        <h2 className='section-title mb-8 xl:mb-16 text-center mx-auto'>
-          My Portfolio
+        <h2 className='section-title text-center mx-auto'>
+          My Portfolio Sample
         </h2>
+        <p className='subtitle mb-8 text-center xl:mb-16'>455 Massies Ln</p>
 
         <center className='mb-12 xl:mb-24'>
         <iframe width="840" height="473" src="https://www.youtube.com/embed/cjmBdbaGdbA?si=eq12Epi8px8jHzd6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen='true'></iframe>
