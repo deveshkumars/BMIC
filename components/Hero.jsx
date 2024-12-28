@@ -16,7 +16,7 @@ const Hero = () => {
                     Drone Photography and Videography
                 </div>
                 <h1 className="h1 uppercase">Let's make magic!</h1>
-                <p className="subtitle max-w-[590px mt-4 mx-auto xl:mx-0">We are a drone photography business.</p>
+                <p className="subtitle max-w-[590px mt-4 mx-auto xl:mx-0">We are a real estate marketing business.</p>
             
             <div className="flex flex-col gap-y-4 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12">
                 <div className="flex w-full gap-x-4">
@@ -67,7 +67,7 @@ const Hero = () => {
                     <dd className="order-first text-3xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
                         <Badge
                             icon={<RiBookmark3Fill />}
-                            endCountNum={1}
+                            endCountNum={2}
                             endCountText="+"
                             badgeText=''
                             />
@@ -80,7 +80,7 @@ const Hero = () => {
                     <dd className="order-first text-3xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
                         <Badge
                             icon={<RiBookmark3Fill />}
-                            endCountNum={8}
+                            endCountNum={10}
                             endCountText="+"
                             badgeText=''
                             />

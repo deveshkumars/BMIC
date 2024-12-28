@@ -15,7 +15,7 @@ const servicesData = [
     {
         icon: <Scan size={48} strokeWidth={1}/>,
         title: 'Drone Video',
-        description: 'We are able to produce cinematic video using our drone capabilities.'
+        description: 'We are able to produce cinematic video using our drone capabilities. Agents with cinematic video are 400% more likely to get inquiries.'
     },
 
 ]
