@@ -19,11 +19,11 @@ const Faq = () => {
                         <AccordionItem value="item-1">
                             <AccordionTrigger>
                                 <div className='ms-3'>
-                                    01. Do you have a work sample?
+                                    01.Can anyone join the club!
                                 </div>
                             </AccordionTrigger>
                             <AccordionContent>
-                                Yes, see the portfolio sample on this webpage.
+                                Yes, anyone can join!
                             </AccordionContent>
                         </AccordionItem>
                     </Accordion>
@@ -34,11 +34,11 @@ const Faq = () => {
                         <AccordionItem value="item-2">
                             <AccordionTrigger>
                                 <div className='ms-3'>
-                                    02. What is your pricing?
+                                    02. What if I don't want to come to every workshop!
                                 </div>
                             </AccordionTrigger>
                             <AccordionContent>
-                                The prices are flexible and listed on the pricing page. Feel free to give us a call!
+                                No worries, come whenever you'd like!
                             </AccordionContent>
                         </AccordionItem>
                     </Accordion>
@@ -49,11 +49,11 @@ const Faq = () => {
                         <AccordionItem value="item-3">
                             <AccordionTrigger>
                                 <div className='ms-3'>
-                                    03. Why should I choose you?
+                                    03. How often are there workshops!
                                 </div>
                             </AccordionTrigger>
                             <AccordionContent>
-                                We offer the highest quality photo and video at the lowest price, with the fastest turnarounds.
+                                We offer a couple every semester.
                             </AccordionContent>
                         </AccordionItem>
                     </Accordion>

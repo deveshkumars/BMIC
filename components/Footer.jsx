@@ -7,10 +7,9 @@ const Footer = () => {
                 <div className="flex flex-col items-center justify-between">
                     <div className="text-white">
                         <center>
-                            <h3>Devesh Kumar</h3>
-                            <p>(804) 585-7422</p>
-                            <p>deveshkumardrone@gmail.com</p>
-                            <p>Copyright &copy; 2024, All Rights Reserved</p>
+                            <h3>B-MIC</h3>
+                            <p>bmic@brown.edu</p>
+                            <p>Copyright &copy; 2025, All Rights Reserved</p>
                         </center>
                     </div>
                 </div>

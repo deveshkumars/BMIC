@@ -10,13 +10,13 @@ const contact = () => {
               <span className='w-[30px] h-[2px] bg-primary'></span>
               Hello
             </div>
-            <h1 className='h1 max-w-md mb-8'>Let's work together</h1>
+            <h1 className='h1 max-w-md mb-8'>Want to join B-MIC?</h1>
             <center>
             <p className='h3'>
-              Thank you for considering our services please contact me at:
+              Please join us at
             </p>
             <p className='h3'>
-              (804) 585-7422 or deveshkumardrone@gmail.com
+              bmic@brown.edu
             </p>
             </center>
           </div>

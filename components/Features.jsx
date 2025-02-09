@@ -2,23 +2,23 @@ import { ArrowPathIcon, CloudArrowUpIcon, FingerPrintIcon, LockClosedIcon, Camer
 
 const features = [
     {
-        name: 'DRONE PHOTOGRAPHY',
-        description: 'Professionally licensed drone photography services',
+        name: 'AI Workshops',
+        description: 'Come learn about AI at our workshops!',
         icon: CameraIcon,
     },
     {
-        name: 'DRONE VIDEOGRAPHY',
-        description: 'Top drone photo and video available anywhere',
+        name: 'Startup Connections',
+        description: 'We have connections to companies all over!',
         icon: VideoCameraIcon,
     },
     {
-        name: 'VIRTUAL TWILIGHT PHOTOS',
-        description: 'Get a glimpse of how the property will look at night',
+        name: 'GUEst speakers',
+        description: 'Our guest speakers include alumni like a Stanford PhD working on AI!',
         icon: CameraIcon,
     },
     {
-        name: 'INTERIOR PHOTOS AND VIDEOS',
-        description: 'Professional interior and exterior photos',
+        name: 'Fun Events',
+        description: 'We have tons of fun events too!',
         icon: CameraIcon,
     },
 ]

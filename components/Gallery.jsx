@@ -1,7 +1,7 @@
 import { Section } from 'lucide-react';
 import React from 'react';
 import ProjectCard from './ProjectCard';
-
+// I don't even know bruh i'll fix this later
 const projectData = [
     {
         image: '/work/3.png',

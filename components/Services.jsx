@@ -4,18 +4,18 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle} from '@/comp
 const servicesData = [
     {
         icon: <Smile size={48} strokeWidth={1} />,
-        title: 'Drone Photos',
-        description: 'The National Association of Realtors found that buyers are 65% more likely to buy a property with drone photos. We provide high-quality drone photos at a competitive price.'
+        title: 'Workshops',
+        description: 'Want to learn how to use LLMs! Generative AI! Deepfakes?!'
     },
     {
         icon: <Scan size={48} strokeWidth={1}/>,
-        title: 'Interior/exterior photo/video',
-        description: 'We produce quality interior/exterior photos, along with virtual twilight photos.'
+        title: 'Guest Speakers',
+        description: 'Hear these awesome speakers.'
     },
     {
         icon: <Scan size={48} strokeWidth={1}/>,
-        title: 'Drone Video',
-        description: 'We are able to produce cinematic video using our drone capabilities. Agents with cinematic video are 400% more likely to get inquiries.'
+        title: 'Startup Connections',
+        description: 'We have connections to companies all over!'
     },
 
 ]

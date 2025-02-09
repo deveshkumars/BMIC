@@ -13,10 +13,10 @@ const Hero = () => {
             <div className="flex justify-between gap-x-8">
             <div className="flex max-w-[800px] flex-col justify-center mx-auto xl:mx-0 text-center xl:text-left">
                 <div className = "text-sm uppercase font-semibold mb-4 text-primary tracking-[4px]">
-                    Drone Photography and Videography
+                    Brown's Premier AI Club
                 </div>
                 <h1 className="h1 uppercase">Let's make magic!</h1>
-                <p className="subtitle max-w-[590px mt-4 mx-auto xl:mx-0">We are a real estate marketing business.</p>
+                <p className="subtitle max-w-[590px mt-4 mx-auto xl:mx-0">We help people learn AI and use it in their lives</p>
             
             <div className="flex flex-col gap-y-4 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12">
                 <div className="flex w-full gap-x-4">
@@ -50,7 +50,7 @@ const Hero = () => {
 
                     {/* Badge 1 */}
                     <div className="mx-auto flex max-w-xs flex-col gap-y-4">
-                    <dt className="text-base leading-7 text-muted-foreground">Years of Flying Experience</dt>
+                    <dt className="text-base leading-7 text-muted-foreground">Years</dt>
                     <dd className="order-first text-3xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
                         <Badge
                             icon={<RiBookmark3Fill />}
@@ -63,11 +63,11 @@ const Hero = () => {
 
                     {/* Badge 2 */}
                     <div className="mx-auto flex max-w-xs flex-col gap-y-4">
-                    <dt className="text-base leading-7 text-muted-foreground">Houses Toured</dt>
+                    <dt className="text-base leading-7 text-muted-foreground">Members</dt>
                     <dd className="order-first text-3xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
                         <Badge
                             icon={<RiBookmark3Fill />}
-                            endCountNum={2}
+                            endCountNum={200}
                             endCountText="+"
                             badgeText=''
                             />
@@ -76,7 +76,7 @@ const Hero = () => {
 
                     {/* Badge 3 */}
                     <div className="mx-auto flex max-w-xs flex-col gap-y-4">
-                    <dt className="text-base leading-7 text-muted-foreground">Services Offered</dt>
+                    <dt className="text-base leading-7 text-muted-foreground">Workshops Offered</dt>
                     <dd className="order-first text-3xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
                         <Badge
                             icon={<RiBookmark3Fill />}
